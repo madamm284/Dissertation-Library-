@@ -147,4 +147,4 @@ while True:
     elif choice == "9":
        print("Goodbye!")
     else:
-        print("Option does not exists")
+        print("Option does not exist")
